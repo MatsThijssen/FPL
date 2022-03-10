@@ -1,6 +1,7 @@
+theme: minima
 lsi: false
 safe: true
-source: https://github.com/MatsThijssen/FPL/docs
+source: 
 incremental: false
 highlighter: rouge
 gist:
