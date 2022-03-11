@@ -34,7 +34,7 @@ Note that for double gameweeks (DGW), teams are not necessarily in the right ord
 
 Below is the corresponding "Defensive FDR", telling you how easy/hard it will be to avoid conceding against a certain team. Like the Offensive FDR, teams on the y-axis are sorted by defensive form, and the colors go from dark green (low offensive strength) to red (high offensive strength). Against a dark green team, there is a good chance to keep a clean sheet, while against a red team it will be a great challenge.
 
-<img src"DefFDR.png" width=1000/>
+<img src="DefFDR.png" width=1000/>
 
 For both these charts it is important to consider a teams inheret strength as well as the FDR values. As mentioned, teams like Liverpool and Manchester City are likely to score (and keep clean sheets) against almost any competition. On the other side of the spectrum, a team like Norwich will struggle to both score and keep balls out of their own net, even if they are facing a "dark green" team.
 
