@@ -47,7 +47,7 @@ def FixtureImportxG(teams,GW):
     fixtures_xG.columns = ['Event','H','H_Score','Res','A_Score','A']
 
     def finfunc(x, GW):
-        if x['Event']>GW:# or np.isnan(x['H_Score']):
+        if x['Event']>=GW:# or np.isnan(x['H_Score']):
             return False
         else:
             return True
